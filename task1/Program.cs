@@ -14,7 +14,7 @@ namespace task1
                double tax = 6.6;
 
             // list
-                  Console.WriteLine("Price per smaal Room = 25$");
+                  Console.WriteLine("Price per small Room = 25$");
                   Console.WriteLine("Price per large Room = 35$");
                   Console.WriteLine("Tax = 6.6$");
                   Console.WriteLine("the estimate is valid for 30 day's");
